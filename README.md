@@ -2,8 +2,6 @@ Welcome to my GitHub! This space is dedicated to the projects, assignments, and 
 
 ### 🚀 Recent Projects
 - **[Coexcoin](https://github.com/s1145074/coexcoin)**  
-  ![License](https://img.shields.io/github/license/s1145074/coexcoin?style=flat-square)
-  ![Stars](https://img.shields.io/github/stars/s1145074/coexcoin?style=flat-square)
   - Brief description of what the project does or is about.
 - **[Coexchain](https://github.com/s1145074/coexchain)**  
   ![License](https://img.shields.io/github/license/s1145074/coexchain?style=flat-square)

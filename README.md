@@ -1,7 +1,8 @@
-<img src="[https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGsza29vMHZ4emZyZThyd3hxOTV2Z3hkcXluaDN1YWxiZTc0MnJzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/gtm6yZur9eRFoo1UvO/giphy.gif)" width="50"/>
-
 # Welcome to my GitHub!
+
 This space is dedicated to the projects, assignments, and learning materials I've developed and worked on during my Informatica studies at Leiden University of Applied Sciences.
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGsza29vMHZ4emZyZThyd3hxOTV2Z3hkcXluaDN1YWxiZTc0MnJzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/gtm6yZur9eRFoo1UvO/giphy.gif" width="250"/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
